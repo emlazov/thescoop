@@ -1,0 +1,2 @@
+# thescoop
+Newsletter
